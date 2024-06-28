@@ -1,10 +1,10 @@
 {
   "name": "json-server-vercel",
   "version": "1.0.0",
-  "description": "Deploy JSON Server to Vercel",
-  "main": "api/server.js",
+  "description": "Deploy JSON Server to Heorku",
+  "main": "server.js",
   "scripts": {
-    "start": "node api/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.17.4",
