@@ -7,6 +7,10 @@
     "start": "node api/server.js"
   },
   "dependencies": {
-    "json-server": "^0.17.4"
-  }
+    "json-server": "^0.17.4",
+    "nodemon": "^3.1.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
